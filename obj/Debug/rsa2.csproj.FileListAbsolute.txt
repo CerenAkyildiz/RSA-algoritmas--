@@ -1,0 +1,9 @@
+C:\Users\Ceren\Desktop\rsa2\rsa2\bin\Debug\rsa2.exe.config
+C:\Users\Ceren\Desktop\rsa2\rsa2\bin\Debug\rsa2.exe
+C:\Users\Ceren\Desktop\rsa2\rsa2\bin\Debug\rsa2.pdb
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.Form1.resources
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.Properties.Resources.resources
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.csproj.GenerateResource.Cache
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.exe
+C:\Users\Ceren\Desktop\rsa2\rsa2\obj\Debug\rsa2.pdb
